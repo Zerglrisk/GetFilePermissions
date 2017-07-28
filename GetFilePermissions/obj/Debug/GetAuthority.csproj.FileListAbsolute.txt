@@ -1,0 +1,9 @@
+G:\Develop\Visual Studio 2017\Projects\GetAuthority\GetAuthority\bin\Debug\GetAuthority.exe.config
+G:\Develop\Visual Studio 2017\Projects\GetAuthority\GetAuthority\bin\Debug\GetAuthority.exe
+G:\Develop\Visual Studio 2017\Projects\GetAuthority\GetAuthority\bin\Debug\GetAuthority.pdb
+G:\Develop\Visual Studio 2017\Projects\GetAuthority\GetAuthority\obj\Debug\GetAuthority.csprojResolveAssemblyReference.cache
+G:\Develop\Visual Studio 2017\Projects\GetAuthority\GetAuthority\obj\Debug\GetAuthority.Properties.Resources.resources
+G:\Develop\Visual Studio 2017\Projects\GetAuthority\GetAuthority\obj\Debug\GetAuthority.csproj.GenerateResource.Cache
+G:\Develop\Visual Studio 2017\Projects\GetAuthority\GetAuthority\obj\Debug\GetAuthority.exe
+G:\Develop\Visual Studio 2017\Projects\GetAuthority\GetAuthority\obj\Debug\GetAuthority.pdb
+G:\Develop\Visual Studio 2017\Projects\GetAuthority\GetAuthority\obj\Debug\GetAuthority.Form1.resources

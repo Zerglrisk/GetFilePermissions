@@ -1,0 +1,9 @@
+G:\Develop\Visual Studio 2017\Projects\GetFilePermissions\GetFilePermissions\obj\Debug\GetFilePermissions.csprojResolveAssemblyReference.cache
+G:\Develop\Visual Studio 2017\Projects\GetFilePermissions\GetFilePermissions\obj\Debug\GetFilePermissions.csproj.GenerateResource.Cache
+G:\Develop\Visual Studio 2017\Projects\GetFilePermissions\GetFilePermissions\bin\Debug\GetFilePermissions.exe.config
+G:\Develop\Visual Studio 2017\Projects\GetFilePermissions\GetFilePermissions\bin\Debug\GetFilePermissions.exe
+G:\Develop\Visual Studio 2017\Projects\GetFilePermissions\GetFilePermissions\bin\Debug\GetFilePermissions.pdb
+G:\Develop\Visual Studio 2017\Projects\GetFilePermissions\GetFilePermissions\obj\Debug\GetFilePermissions.Form1.resources
+G:\Develop\Visual Studio 2017\Projects\GetFilePermissions\GetFilePermissions\obj\Debug\GetFilePermissions.Properties.Resources.resources
+G:\Develop\Visual Studio 2017\Projects\GetFilePermissions\GetFilePermissions\obj\Debug\GetFilePermissions.exe
+G:\Develop\Visual Studio 2017\Projects\GetFilePermissions\GetFilePermissions\obj\Debug\GetFilePermissions.pdb
